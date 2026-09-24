@@ -1,4 +1,4 @@
-package DS_I.P1_SistemaMateriaisComunicacao;
+
 
 public class Outdoor extends MaterialOffline {
 
